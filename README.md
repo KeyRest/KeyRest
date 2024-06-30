@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm KeyRest</h1>
+<h1 align="center" class="background-color: white">Hi 👋, I'm KeyRest</h1>
 <h3 align="center">A passionate fullstack developer from Costa Rica</h3>
 
 - 🌱 I’m currently learning **Next Js**
