@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Next Js**
 
-- 👨‍💻 All of my projects are available at [example.com](example.com)
+- 👨‍💻 All of my projects are available at [keyrest.net](keyrest.net)
 
 - 📫 How to reach me **keirongarro@gmail.com**
 
